@@ -2,7 +2,7 @@
 
 ## QQ交流群
 
-* [Flutter 程序开发①号群](https://shang.qq.com/wpa/qunwpa?idkey=a7dd2610d08b283cd23e6c9ad60a4261f8fd790dd6adaa894ad5940b9d5f65ef)：766307130
+* [Flutter 程序开发群](https://shang.qq.com/wpa/qunwpa?idkey=a7dd2610d08b283cd23e6c9ad60a4261f8fd790dd6adaa894ad5940b9d5f65ef)：766307130
 
 ## 目录
 
@@ -45,6 +45,7 @@
 * [Flutter实战一Flutter聊天应用（三）](https://blog.csdn.net/hekaiyou/article/details/72897702)
 * [Flutter实战一Flutter聊天应用（四）](https://blog.csdn.net/hekaiyou/article/details/72902691)
 * [Flutter实战一Flutter聊天应用（五）](https://blog.csdn.net/hekaiyou/article/details/72921061)
+* [Flutter实战一Flutter聊天应用（六）](https://blog.csdn.net/hekaiyou/article/details/72972599)
 * [Flutter实战一Flutter聊天应用（七）](https://blog.csdn.net/hekaiyou/article/details/73130991)
 * [Flutter实战一Flutter聊天应用（八）](https://blog.csdn.net/hekaiyou/article/details/73196458)
 * [Flutter实战一Flutter聊天应用（九）](https://blog.csdn.net/hekaiyou/article/details/73239486)

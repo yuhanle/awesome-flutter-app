@@ -8,9 +8,11 @@
 
 * [教程](#user-content-教程)
 * [文章](#user-content-文章)
-* [搜集](#user-content-搜集)
+* [优秀组件](#user-content-优秀组件)
+* [国内高仿](#user-content-国内高仿)
 * [开源项目](#user-content-开源项目)
 * [案例](#user-content-案例)
+* [其他汇总](#user-content-其他汇总)
 
 ## 教程
 
@@ -60,11 +62,15 @@
 ## 文章
 
 * [Flutter beta 1 重磅发布：开发精美的原生应用](http://developers.googleblog.cn/2018/02/flutter-beta1.html)
+* [谷歌开发者中文博客: 重要宣布— Flutter 的首个「发布预览版」全球发布](https://developers.googleblog.cn/2018/06/flutter-release-preview-1.html)
 
-## 搜集
+## 优秀组件
 
-* [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
-* [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples)
+* [flutter_dropdown_menu](https://github.com/jzoom/flutter_dropdown_menu)
+
+## 国内高仿
+
+- [flutter饿了么客户端（正在建设中...）](https://github.com/jzoom/flutter_eleme)
 
 ## 开源项目
 
@@ -96,3 +102,8 @@
 * [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) - Ecuestre Digital provides real-time results and video streaming of Equestrian Events.
 * [Hookle](https://www.hookle.net/) - Manage your social media in one place
 * [inKino](https://github.com/roughike/inKino) - A complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+
+## 其他汇总
+
+* [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
+* [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples)

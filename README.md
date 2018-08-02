@@ -65,6 +65,7 @@
 
 * [Flutter beta 1 重磅发布：开发精美的原生应用](http://developers.googleblog.cn/2018/02/flutter-beta1.html)
 * [谷歌开发者中文博客: 重要宣布— Flutter 的首个「发布预览版」全球发布](https://developers.googleblog.cn/2018/06/flutter-release-preview-1.html)
+* [Flutter http请求库dio 1.0正式发布](https://juejin.im/post/5b624929e51d4506d27ed3f6)
 
 ## 优秀组件
 
@@ -73,6 +74,13 @@
 ## 国内高仿
 
 - [flutter饿了么客户端（正在建设中...）](https://github.com/jzoom/flutter_eleme)
+- [山寨掘金](https://github.com/MeFelixWang/juejin)
+- [仿boss直聘](https://github.com/heruijun/flutter_boss)
+- [Flutter of Gank](https://github.com/onlyloveyd/FlutterGank)
+- [基于Flutter的开源中国客户端](https://github.com/yubo725/flutter-osc)
+- [撸一款Flutter版『微信』](https://github.com/JadenZhong/wechat-flutter)
+- [Flutter 开发知识小集](https://github.com/awesome-tips/awesome-tips-flutter-app)
+- [撸半个知乎日报](https://github.com/zhujian1989/ZhihuDailyPurifyByFlutter)
 
 ## 开源项目
 

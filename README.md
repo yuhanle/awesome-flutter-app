@@ -2,6 +2,7 @@
 
 ## 开发者交流地
 
+* [Flutter 程序开发群](https://shang.qq.com/wpa/qunwpa?idkey=a7dd2610d08b283cd23e6c9ad60a4261f8fd790dd6adaa894ad5940b9d5f65ef)：NzY2MzA3MTMw
 * [Flutter中文开发者论坛](http://flutter-dev.cn/)
 
 ## 目录
